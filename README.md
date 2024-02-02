@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MME-ExinMC
+- 👋 Hi, I’m MME @MME-ExinMC
 - 👀 I’m interested in data analysis, process mining, and a lot more...
 - 🌱 I’m currently learning Odoo
 - ⚡ Fun fact: Long time IT-person, only joined Github in 2024.
